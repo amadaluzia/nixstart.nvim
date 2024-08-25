@@ -87,6 +87,7 @@ let
         which-key-nvim
         rose-pine
         gruvbox-nvim
+        editorconfig-nvim
         ;
     })
     ++ [ pkgs.vimPlugins.nvim-treesitter.withAllGrammars ];
