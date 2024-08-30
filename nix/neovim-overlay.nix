@@ -87,6 +87,7 @@ let
         which-key-nvim
         rose-pine
         gruvbox-nvim
+        tokyonight-nvim
         ;
     })
     ++ [ pkgs.vimPlugins.nvim-treesitter.withAllGrammars ];
